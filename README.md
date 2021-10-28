@@ -1,2 +1,2 @@
 # jsPlayground
-js refreshment tasks
+js refreshment exercises
